@@ -11479,5 +11479,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7226434305124215743, guid: 037ff303939d8834fb5dcdf9eda15708, type: 3}
+      propertyPath: _bloodSplat
+      value: 
+      objectReference: {fileID: 8029216605829794075, guid: 5fd1ac666b963486cabbc3f445312246, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 037ff303939d8834fb5dcdf9eda15708, type: 3}
